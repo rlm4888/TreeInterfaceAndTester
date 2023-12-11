@@ -1,6 +1,3 @@
-Name: Roma Mudnal
-EID: rlm4888
-
 I first created a TInterface that takes a takes a key and value type which each of the classes implements. 
 Then, I made instances of the BST, AVL, Red-Black, Splay Tree, and Skip List that implement 
 the methods in the interface (get, remove, insert, contains). Then, I wrote
